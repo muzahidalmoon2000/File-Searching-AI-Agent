@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 import msal
 from auth.msal_auth import get_token_from_cache
-from graph.graph_api import search_all_files, check_file_access, send_notification_email
+from graph_api import search_all_files, check_file_access, send_notification_email
 from openai_api import detect_intent_and_extract, answer_general_query
 
 load_dotenv()

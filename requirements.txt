@@ -1,6 +1,7 @@
 Flask
+gunicorn
 requests
+sentence-transformers
 msal
 python-dotenv
 openai
-Python 3.13.5
