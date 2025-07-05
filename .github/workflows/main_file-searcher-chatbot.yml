@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'file-searcher-chatbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18347E83AC5C439C8D4C68856342A4BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_374D48321D8C4773B38FED532606FF79 }}
